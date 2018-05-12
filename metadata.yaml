@@ -1,0 +1,28 @@
+_repo: Choix-de-PoesiesA-Collection-of-French-Poetry-for-Memorizing_22548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Milhau, M.-L.
+    alias: Milhau, Marie Louise
+    gutenberg_agent_id: '25401'
+    url: http://www.gutenberg.org/2009/agents/25401
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2007-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22548'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry'
+title: 'Choix de Poesies
+
+  A Collection of French Poetry for Memorizing'
+url: http://www.gutenberg.org/ebooks/22548
